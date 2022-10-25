@@ -1,0 +1,18 @@
+body{
+  margin:1em;
+  padding:0
+}
+
+
+div.tooltip{
+  position: absolute;
+  text-align: left;
+  width:auto;
+  height:18px;
+  padding:.1em;
+  background: lightskyblue;
+  border-radius:1rem;
+  pointer-events: none;
+  display:flex
+
+}
